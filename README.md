@@ -23,7 +23,7 @@
   can be run.
 - **Python Shell**: an interactive interpreter that can be accessed from the
   command line.
-- **REPL (Read-Eval-Print Loop)**: A REPL (Read-Eval-Print Loop) is a special
+- **REPL (Read-Evaluate-Print Loop)**: A REPL (Read-Eval-Print Loop) is a special
   tool for programming where you can type in code and see what happens right
   away. It's like having a conversation with the computer. You say something 
   (type in code), the computer understands it and does what you asked, and then
